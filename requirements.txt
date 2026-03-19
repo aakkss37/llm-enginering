@@ -15,6 +15,7 @@ openai
 gradio
 langchain
 langchain-core
+langchain_huggingface
 langchain-text-splitters
 langchain-openai
 langchain-chroma
