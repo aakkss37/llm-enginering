@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["metadatas", "OLLAMA", "qwen", "vectorstore"],
+  "cSpell.words": ["dotenv", "metadatas", "OLLAMA", "qwen", "vectorstore"],
   "workbench.colorCustomizations": {
     "editor.background": "#000000",
     "sideBar.background": "#000000",
