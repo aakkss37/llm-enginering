@@ -12,6 +12,7 @@ torch
 transformers
 tqdm
 openai
+openai-agents
 gradio
 langchain
 langchain-core
